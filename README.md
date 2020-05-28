@@ -8,6 +8,8 @@ This is an online Course platform which bases on Django.
 
 #### Current version: v1.0.0
 
+No any descriptions at present.
+
 ## User manual
 
 There is none at present.
